@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">VeganFuel</string>
+    <string name="protein">Protein</string>
+    <string name="about">About</string>
+    <string name="calcium">Calcium</string>
+    <string name="iron">Iron</string>
+    <string name="magnesium">Magnesium</string>
+    <string name="omega3">Omega-3</string>
+    <string name="phosphorus">Phosphorus</string>
+    <string name="potassium">Potassium</string>
+    <string name="zinc">Zinc</string>
+    <string name="try_typing_soy">Try typing \"soy\"...</string>
+    <string name="food_group">Food group</string>
+    <string name="sort_by">Sort by</string>
+    <string name="nutrient_content">Nutrient Content</string>
+    <string name="about_text">
+        With VeganFuel you can quickly look up vegan foods rich with a specific nutrient.\n\nThe app uses the open USDA nutrition API for the data:\nhttps://ndb.nal.usda.gov\n\nCreated and maintained by Andrey Galchevski.\nThe code for the app is available at: \nhttps://github.com/AndreyGalchevski/veganfuel-android
+    </string>
+</resources>
